@@ -1,0 +1,18 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "RHHcn2BWU5mFkfJeduGNI3iqnG0=",
+			"path": "github.com/orestonce/ymd/ymdUuid",
+			"revision": ""
+		},
+		{
+			"checksumSHA1": "+RPbt/bqx8qmTbdc2bL0cjCbVNg=",
+			"path": "github.com/satori/go.uuid",
+			"revision": "36e9d2ebbde5e3f13ab2e25625fd453271d6522e",
+			"revisionTime": "2018-01-03T17:44:51Z"
+		}
+	],
+	"rootPath": "github.com/orestonce/ymd/ymdUuid"
+}
